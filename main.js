@@ -12,7 +12,7 @@ var app = new Vue({
       "残念！この人はカイリじゃないよ",
       "残念！この人はとーやじゃないよ"
     ],
-    text: [],
+    text: '',
     feedback: false
   },
   methods: {
